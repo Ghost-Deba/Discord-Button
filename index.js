@@ -37,14 +37,14 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://open.spotify.com/user/nour2282005?si=_lkQtKu2QlC-UVLCkxUL1A') 
     .setState('𓂺𝙵𝚞𝚌𝚔 𝚃𝚑𝚒𝚜 𝙻𝚒𝚏𝚎𓂸')
-    .setName('quaaxz')
-    .setDetails(`Nitro is now`)
+    .setName('.9.9p')
+    .setDetails(`Listen Now`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/905256599906558012/1307526399128637460/cb2da9b8e06f5e2addc04d92d9fb64a1.jpg?ex=673aa05a&is=67394eda&hm=96a8cd82e58cc28a8b57286c3d6842e63c826716caf129199cbbe9efebf8d222&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Nitro') 
+    .setAssetsLargeText('FUCK OFF') 
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/905256599906558012/1307526398243639346/4465f820ea97137a6e16b362edf946bc.jpg?ex=673aa05a&is=67394eda&hm=c81d39f7ff264115c8806aafc32f15cb7e73fafc7741c431ee135d3c376b2e36&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('Spotify', '');
+    .addButton('Spotify', 'https://open.spotify.com/user/nour2282005?si=_lkQtKu2QlC-UVLCkxUL1A');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
