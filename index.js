@@ -33,7 +33,7 @@ client.on('ready', async () => {
   console.log(`${client.user.tag} - rich presence started!`);
 
   const r = new Discord.RichPresence()
-    .setApplicationId('1265825059692609587')
+    .setApplicationId('1225932026293518457')
     .setType('PLAYING')
     .setURL('https://open.spotify.com/user/nour2282005?si=_lkQtKu2QlC-UVLCkxUL1A') 
     .setState('𓂺𝙵𝚞𝚌𝚔 𝚃𝚑𝚒𝚜 𝙻𝚒𝚏𝚎𓂸')
